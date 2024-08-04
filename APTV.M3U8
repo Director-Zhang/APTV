@@ -112,3 +112,25 @@ rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="🐉湾湾频道「线路6」",华视
 rtmp://f13h.mine.nu/sat/tv111
 
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="🐉湾湾频道「线路2」",纬来体育台
+http://fm1077.serv00.net/Smart.php?id=videolandsport
+#EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="🐉湾湾频道「线路2」",民视第一台
+http://fm1077.serv00.net/Smart.php?id=lunghuajingdian_twn
+#EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="🐉湾湾频道「线路2」",民视台湾台
+http://fm1077.serv00.net/Smart.php?id=ftvtaiwan_twn
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="🐉湾湾频道「线路2」",民视新闻台
+http://fm1077.serv00.net/Smart.php?id=ftvnew_taiwan
+#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="🐉湾湾频道「线路2」",台视
+http://fm1077.serv00.net/Smart.php?id=ttv_taiwan
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="🐉湾湾频道「线路2」",台视新闻台
+http://fm1077.serv00.net/Smart.php?id=ttvnews_twn
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="🐉湾湾频道「线路2」",中视
+http://fm1077.serv00.net/Smart.php?id=zhongshihd_twn
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="🐉湾湾频道「线路2」",中视新闻台
+http://fm1077.serv00.net/Smart.php?id=zhongshinews_twn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉湾湾频道「线路4」",TW| 中视高清 HD
+http://extraott.com/7921751389/6097373662/5485
+#EXTINF:-1 group-title="🐉海外体育",CCTV-5+
+http://fm1077.serv00.net/Smart.php?id=cctv5plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉湾湾频道「线路6」",台湾体育3
+rtmp://9hv9.mine.nu/sat/md021
