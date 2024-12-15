@@ -1,9 +1,16 @@
 #EXTINF:-1 group-title="🏆2024奥运会-①🏆",咪咕奥运会 4K
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 group-title="🐉电影频道🎥",豆瓣高分
+http://120.77.28.4:8648/douyu.php?id=8770422 
+#EXTINF:-1 group-title="🐉电影频道🎥",黑莓电影
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
+#EXTINF:-1 group-title="🐉电影频道🎥",斗鱼电影
+http://120.77.28.4:8648/douyu.php?id=2935323
+#EXTINF:-1 group-title="🐉电影频道🎥",林正英电影
+http://120.77.28.4:8648/douyu.php?id=218859
 #EXTINF:-1 group-title="🐉未来电视🐯",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",超级电视剧
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+
 #EXTINF:-1 group-title="🐉电影频道🎥",一号影厅
 http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 #EXTINF:-1 group-title="🐉电影频道🎥",三号影厅
@@ -11,12 +18,27 @@ http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e0418
 #EXTINF:-1 group-title="🐉电影频道🎥",动作电影
 http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
 
+#EXTINF:-1 group-title="🐉未来电视🐯",超级电视剧
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+
+#EXTINF:-1 group-title="🐉香港频道",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 group-title="🐉香港频道",無線新聞台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 group-title="🐉香港频道",翡翠台
+ http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+
+ #EXTINF:-1 group-title="🐉高码率线路-①💥",广州综合
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+#EXTINF:-1 group-title="🐉高码率线路-①💥",广州新闻
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🐉高码率线路-①💥",CCTV1
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="🐉高码率线路-①💥",CCTV2
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="🐉高码率线路-①💥",CCTV3
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8
+http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="🐉高码率线路-①💥",CCTV4
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="🐉高码率线路-①💥",CCTV5
