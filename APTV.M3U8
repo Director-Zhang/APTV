@@ -1,149 +1,145 @@
-#EXTINF:-1 group-title="🐉电影频道🎥",豆瓣高分
+#EXTINF:-1 group-title="电影频道",豆瓣高分
 http://120.77.28.4:8648/douyu.php?id=8770422 
-#EXTINF:-1 group-title="🐉电影频道🎥",黑莓电影
+#EXTINF:-1 group-title="电影频道",黑莓电影
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",斗鱼电影
+#EXTINF:-1 group-title="电影频道",斗鱼电影
 http://120.77.28.4:8648/douyu.php?id=2935323
-#EXTINF:-1 group-title="🐉电影频道🎥",林正英电影
-http://120.77.28.4:8648/douyu.php?id=218859
-#EXTINF:-1 group-title="🐉未来电视🐯",超级电影
+#EXTINF:-1 group-title="电影频道",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",一号影厅
+#EXTINF:-1 group-title="电影频道",一号影厅
 http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-#EXTINF:-1 group-title="🐉电影频道🎥",三号影厅
+#EXTINF:-1 group-title="电影频道",三号影厅
 http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
-#EXTINF:-1 group-title="🐉电影频道🎥",动作电影
+#EXTINF:-1 group-title="电影频道",动作电影
 http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",超级电视剧
+#EXTINF:-1 group-title="电影频道",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 
-#EXTINF:-1 group-title="🐉香港频道",明珠台
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="🐉香港频道",翡翠台
- http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:21 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 無線新聞台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:28 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-3" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:29 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-4" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:30 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-5" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:16 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/hk" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 娛樂新聞台(HK)
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:22 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/hk-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 美亞電影台(HK)
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:60 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/null-2" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 台湾-無線衛星新聞台
-http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-#EXTINF:8 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvbplus" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 台湾-TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:9 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvbs" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 台湾-TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:10 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvbs-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 台湾-TVBS-新聞台
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:12 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-12" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中天亞洲台
-http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:13 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-8" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中天新聞台
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:14 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-10" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中視
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:17 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-9" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 寰宇新聞台
-http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:26 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-11" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 華視
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:43 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/null" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", 東森新聞
-http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:58 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/null-3" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 亞洲新聞台
-http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 
- #EXTINF:-1 group-title="🐉高码率线路-①💥",广州综合
+ #EXTINF:-1 group-title="央视&地方",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
-#EXTINF:-1 group-title="🐉高码率线路-①💥",广州新闻
+#EXTINF:-1 group-title="央视&地方",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🐉高码率线路-①💥",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视&地方",CCTV1
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="🐉高码率线路-①💥",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视&地方",CCTV2
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="🐉高码率线路-①💥",CCTV3
-http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="🐉高码率线路-①💥",CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视&地方",CCTV4
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="🐉高码率线路-①💥",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视&地方",CCTV5
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/1.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="🐉高码率线路-①💥",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视&地方",CCTV5+
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="🐉高码率线路-①💥",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视&地方",CCTV6
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010214/1.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="🐉高码率线路-①💥",CCTV7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视&地方",CCTV7
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/1.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="🐉高码率线路-①💥",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视&地方",CCTV8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/1.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="🐉高码率线路-①💥",CCTV9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视&地方",CCTV9
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010217/1.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="🐉高码率线路-①💥",CCTV10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视&地方",CCTV10
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="🐉高码率线路-①💥",CCTV11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视&地方",CCTV11
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="🐉高码率线路-①💥",CCTV12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视&地方",CCTV12
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="🐉高码率线路-①💥",CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视&地方",CCTV13
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="🐉高码率线路-①💥",CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视&地方",CCTV14
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="🐉高码率线路-①💥",CCTV15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视&地方",CCTV15
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="🐉高码率线路-①💥",CCTV16 4K
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视&地方",CCTV16 4K
 http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="🐉高码率线路-①💥",CCTV17
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视&地方",CCTV17
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="🐉高码率线路-①💥",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视&地方",湖南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="🐉高码率线路-①💥",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="央视&地方",浙江卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="🐉高码率线路-①💥",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="央视&地方",江苏卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="🐉高码率线路-①💥",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="央视&地方",东方卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="🐉高码率线路-①💥",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="央视&地方",北京卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="🐉高码率线路-①💥",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="央视&地方",广东卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="🐉高码率线路-①💥",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="央视&地方",重庆卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="🐉高码率线路-①💥",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="央视&地方",深圳卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="🐉高码率线路-①💥",四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="央视&地方",四川卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="🐉高码率线路-①💥",广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="央视&地方",广西卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="🐉高码率线路-①💥",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="央视&地方",天津卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="🐉高码率线路-①💥",安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="央视&地方",安徽卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="🐉高码率线路-①💥",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="央视&地方",山东卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="🐉高码率线路-①💥",江西卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="央视&地方",江西卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="🐉高码率线路-①💥",河北卫视
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="央视&地方",河北卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="🐉高码率线路-①💥",河南卫视
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="央视&地方",河南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="🐉高码率线路-①💥",海南卫视
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="央视&地方",海南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="🐉高码率线路-①💥",湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="央视&地方",湖北卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="🐉高码率线路-①💥",贵州卫视
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="央视&地方",贵州卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="🐉高码率线路-①💥",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="央视&地方",辽宁卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="🐉高码率线路-①💥",吉林卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="央视&地方",吉林卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="🐉高码率线路-①💥",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="央视&地方",黑龙江卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="🐉高码率线路-①💥",云南卫视
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="央视&地方",云南卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="🐉高码率线路-①💥",甘肃卫视
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="央视&地方",甘肃卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="🐉高码率线路-①💥",青海卫视
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="央视&地方",青海卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
 
+#EXTINF:-1 group-title="港澳台" ,明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台" ,翡翠台
+ http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:21 group-title="港澳台" aktv-server-group="AKTV" tvg-id="aktv/null-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 無線新聞台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:28 group-title="港澳台" aktv-server-group="AKTV" tvg-id="aktv/null-3" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:29 group-title="港澳台" aktv-server-group="AKTV" tvg-id="aktv/null-4" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:30 group-title="港澳台" aktv-server-group="AKTV" tvg-id="aktv/null-5" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:16 group-title="港澳台" aktv-server-group="AKTV" tvg-id="aktv/hk" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 娛樂新聞台(HK)
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:22 group-title="港澳台" aktv-server-group="AKTV" tvg-id="aktv/hk-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 美亞電影台(HK)
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:60 group-title="港澳台" aktv-server-group="AKTV3" tvg-id="aktv3/null-2" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 台湾-無線衛星新聞台
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:8 group-title="港澳台" aktv-server-group="AKTV" tvg-id="aktv/tvbplus" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 台湾-TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:9 group-title="港澳台" aktv-server-group="AKTV" tvg-id="aktv/tvbs" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 台湾-TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:10 group-title="港澳台" aktv-server-group="AKTV" tvg-id="aktv/tvbs-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 台湾-TVBS-新聞台
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:12 group-title="港澳台" aktv-server-group="AKTV" tvg-id="aktv/null-12" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中天亞洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:13 group-title="港澳台" aktv-server-group="AKTV" tvg-id="aktv/null-8" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中天新聞台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:14 group-title="港澳台" aktv-server-group="AKTV" tvg-id="aktv/null-10" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中視
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:17 group-title="港澳台" aktv-server-group="AKTV" tvg-id="aktv/null-9" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 寰宇新聞台
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:26 group-title="港澳台" aktv-server-group="AKTV" tvg-id="aktv/null-11" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 華視
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:43 group-title="港澳台" aktv-server-group="AKTV2" tvg-id="aktv2/null" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", 東森新聞
+http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+#EXTINF:58 group-title="港澳台" aktv-server-group="AKTV3" tvg-id="aktv3/null-3" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 亞洲新聞台
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
